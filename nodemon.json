@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    "**/*.test.ts",
+    "**/*.spec.ts",
+    "**/*.e2e-spec.ts",
+    "node_modules"
+  ],
+  "watch": ["src"],
+  "exec": "yarn run start:dev",
+  "ext": "ts"
+}
